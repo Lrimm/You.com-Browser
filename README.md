@@ -1,4 +1,4 @@
-![image](https://github.com/Lrimm/You.com-Desktop-Browser/assets/94749070/792da66e-4245-4c8c-adc9-5e8f32eba902)# The You.com Desktop Browser.
+# The You.com Desktop Browser.
 <img src="You.com Text Logo.png">
 A simple to use, privacy oriented desktop web browser. Based on the You.com app, with a few small twists. This uses You.com to browse as well as this it has AI shortcuts integrated into it. Not only that, it can lock itself. Made with C#.
 
