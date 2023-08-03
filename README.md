@@ -15,7 +15,7 @@ This browser's features include the ability to navigate to AI and non-AI shortcu
 <img src="You.com Main Application File Created Image.png">
 <img src="You.com Application Create Password Image.png">
 <img src="You.com Application Working Image.png">
-<img src="You.com Application Youtube Image.png">
+<img src="You.com Application Lock Image.png">
 <img src="You.com Application Spotify Image.png">
 <img src="You.com Application Bard Image.png">
 <img src="You.com Application Youtube Image.png">
