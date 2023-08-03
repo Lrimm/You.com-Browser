@@ -1,0 +1,28 @@
+C:\Users\Luke\source\repos\You Browser\You Browser\bin\Debug\net7.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Luke\source\repos\You Browser\You Browser\bin\Debug\net7.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Luke\source\repos\You Browser\You Browser\bin\Debug\net7.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Luke\source\repos\You Browser\You Browser\bin\Debug\net7.0-windows\You Browser.exe
+C:\Users\Luke\source\repos\You Browser\You Browser\bin\Debug\net7.0-windows\You Browser.deps.json
+C:\Users\Luke\source\repos\You Browser\You Browser\bin\Debug\net7.0-windows\You Browser.runtimeconfig.json
+C:\Users\Luke\source\repos\You Browser\You Browser\bin\Debug\net7.0-windows\You Browser.dll
+C:\Users\Luke\source\repos\You Browser\You Browser\bin\Debug\net7.0-windows\You Browser.pdb
+C:\Users\Luke\source\repos\You Browser\You Browser\bin\Debug\net7.0-windows\Guna.UI2.dll
+C:\Users\Luke\source\repos\You Browser\You Browser\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Luke\source\repos\You Browser\You Browser\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Luke\source\repos\You Browser\You Browser\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Luke\source\repos\You Browser\You Browser\bin\Debug\net7.0-windows\System.Management.dll
+C:\Users\Luke\source\repos\You Browser\You Browser\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Luke\source\repos\You Browser\You Browser\obj\Debug\net7.0-windows\You Browser.csproj.AssemblyReference.cache
+C:\Users\Luke\source\repos\You Browser\You Browser\obj\Debug\net7.0-windows\You_Browser.Form1.resources
+C:\Users\Luke\source\repos\You Browser\You Browser\obj\Debug\net7.0-windows\You Browser.csproj.GenerateResource.cache
+C:\Users\Luke\source\repos\You Browser\You Browser\obj\Debug\net7.0-windows\You Browser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luke\source\repos\You Browser\You Browser\obj\Debug\net7.0-windows\You Browser.AssemblyInfoInputs.cache
+C:\Users\Luke\source\repos\You Browser\You Browser\obj\Debug\net7.0-windows\You Browser.AssemblyInfo.cs
+C:\Users\Luke\source\repos\You Browser\You Browser\obj\Debug\net7.0-windows\You Browser.csproj.CoreCompileInputs.cache
+C:\Users\Luke\source\repos\You Browser\You Browser\obj\Debug\net7.0-windows\You Browser.csproj.CopyComplete
+C:\Users\Luke\source\repos\You Browser\You Browser\obj\Debug\net7.0-windows\You Browser.dll
+C:\Users\Luke\source\repos\You Browser\You Browser\obj\Debug\net7.0-windows\refint\You Browser.dll
+C:\Users\Luke\source\repos\You Browser\You Browser\obj\Debug\net7.0-windows\You Browser.pdb
+C:\Users\Luke\source\repos\You Browser\You Browser\obj\Debug\net7.0-windows\You Browser.genruntimeconfig.cache
+C:\Users\Luke\source\repos\You Browser\You Browser\obj\Debug\net7.0-windows\ref\You Browser.dll
+C:\Users\Luke\source\repos\You Browser\You Browser\obj\Debug\net7.0-windows\You_Browser.Properties.Resources.resources
