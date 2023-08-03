@@ -9,7 +9,7 @@ A simple to use, privacy oriented desktop web browser. Based on the You.com app,
 This browser's features include the ability to navigate to AI and non-AI shortcuts like ChatGPT, Bard, Youtube Music and Spotify. The Application is mainly privacy based. (Not encryption wise) The app however, can hide features from other users on your computer by a simple click of the lock icon. True encryption for this is coming soon. As well as encryption for hard coded passwords. Plus ease of installation.
 
 <img src="Associated Applications Image.png">
-<img src="Tools Plus Audio Image.png">
+
 
 # Screenshots:
 <img src="You.com Main Application File Created Image.png">
