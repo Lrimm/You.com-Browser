@@ -1,22 +1,25 @@
-# The You.com Desktop Browser.
+![image](https://github.com/Lrimm/You.com-Desktop-Browser/assets/94749070/792da66e-4245-4c8c-adc9-5e8f32eba902)# The You.com Desktop Browser.
 <img src="You.com Text Logo.png">
 A simple to use, privacy oriented desktop web browser. Based on the You.com app, with a few small twists. This uses You.com to browse as well as this it has AI shortcuts integrated into it. Not only that, it can lock itself. Made with C#.
 
 # The Desktop Application:
-<img src="You Browser Main Image.png">
+<img src="You.com Main Application Image.png">
 
 # Features:
 This browser's features include the ability to navigate to AI and non-AI shortcuts like ChatGPT, Bard, Youtube Music and Spotify. The Application is mainly privacy based. (Not encryption wise) The app however, can hide features from other users on your computer by a simple click of the lock icon. True encryption for this is coming soon. As well as encryption for hard coded passwords. Plus ease of installation.
 
 <img src="Associated Applications Image.png">
+<img src="Tools Plus Audio Image.png">
 
 # Screenshots:
-<img src="You Browser Main Image.png">
-<img src="You Browser Locked Image.png">
-<img src="You Browser ChatGPT Image.png">
-<img src="You Browser Google Bard Image.png">
-<img src="You Browser Spotify Image.png">
-<img src="You Browser Youtube Music Image.png">
+<img src="You.com Main Application File Created Image.png">
+<img src="You.com Application Create Password Image.png">
+<img src="You.com Application Working Image.png">
+<img src="You.com Application Youtube Image.png">
+<img src="You.com Application Spotify Image.png">
+<img src="You.com Application Bard Image.png">
+<img src="You.com Application Youtube Image.png">
+<img src="You.com Application ChatGPT Image.png">
 
 # Please Note (Disclaimer): 
 
