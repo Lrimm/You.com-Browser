@@ -25,4 +25,4 @@ This browser's features include the ability to navigate to AI and non-AI shortcu
 
 To who'm it may concern. (Any employees or executives of the companies with this project included). This was intended as a code demonstration. You.com, OpenAI, Alphabet and Spotify own the rights to their respective products and services. For more information on who I am you can reach out to me <a href="https://lukerimmington.com">Luke Rimmington</a> here.
 # More Info About This Project:
-This project was made in just 2 hours and has been continuously modified, AES password encryption coming soon. You can change passwords in this application currently, but it is available to view in a file.
+This project was made in just 2 hours it is for Microsoft Windows not Linux OS's and has been continuously modified, AES password encryption coming soon. You can change passwords in this application currently, but it is available to view in a file. Also, be sure to when trying to use this application open with the application allowed for by Windows security. Be it Windows 10-11. 
